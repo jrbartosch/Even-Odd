@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="QI8HBFUcQQ1SnhpAy6e8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KEqDz6hZrsXgNSqdHmt-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-1" value="Find if number is even or odd." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-8" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KEqDz6hZrsXgNSqdHmt-4" target="5KEqDz6hZrsXgNSqdHmt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5KEqDz6hZrsXgNSqdHmt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-13" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5KEqDz6hZrsXgNSqdHmt-9">
+          <mxGeometry x="-0.2133" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-4" value="Is number divisible by 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-7" value="Number is even." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5KEqDz6hZrsXgNSqdHmt-12" value="Number is odd." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
